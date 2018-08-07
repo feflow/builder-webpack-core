@@ -1,3 +1,18 @@
+<a name="0.1.6"></a>
+## [0.1.6](https://github.com/cpselvis/builder-webpack-core/compare/v0.1.3...v0.1.6) (2018-08-07)
+
+
+### Bug Fixes
+
+* 增加less-loader依赖. ([bb232ae](https://github.com/cpselvis/builder-webpack-core/commit/bb232ae))
+
+
+### Features
+
+* 支持tree-shaking. ([fc0baf8](https://github.com/cpselvis/builder-webpack-core/commit/fc0baf8))
+
+
+
 <a name="0.0.3"></a>
 ## 0.0.3 (2018-06-20)
 
