@@ -1,3 +1,13 @@
+<a name="0.1.9"></a>
+## [0.1.9](https://github.com/cpselvis/builder-webpack-core/compare/v0.1.8...v0.1.9) (2018-09-03)
+
+
+### Bug Fixes
+
+* js和ts的loader都不需要编译项目根目录的node_modules ([c08be7a](https://github.com/cpselvis/builder-webpack-core/commit/c08be7a))
+
+
+
 <a name="0.1.6"></a>
 ## [0.1.6](https://github.com/cpselvis/builder-webpack-core/compare/v0.1.3...v0.1.6) (2018-08-07)
 
