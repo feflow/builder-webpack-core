@@ -1,3 +1,18 @@
+<a name="0.1.10"></a>
+## [0.1.10](https://github.com/cpselvis/builder-webpack-core/compare/v0.1.9...v0.1.10) (2018-09-20)
+
+
+### Bug Fixes
+
+* 更新版本到0.1.9 ([117af14](https://github.com/cpselvis/builder-webpack-core/commit/117af14))
+
+
+### Features
+
+* 支持output的目录可配置. ([8b2436f](https://github.com/cpselvis/builder-webpack-core/commit/8b2436f))
+
+
+
 <a name="0.1.9"></a>
 ## [0.1.9](https://github.com/cpselvis/builder-webpack-core/compare/v0.1.8...v0.1.9) (2018-09-03)
 
