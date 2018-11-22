@@ -1,3 +1,14 @@
+<a name="0.1.12"></a>
+## [0.1.12](https://github.com/cpselvis/builder-webpack-core/compare/v0.1.10...v0.1.12) (2018-11-22)
+
+
+### Features
+
+* 兼容 IOS7 样式 ([a8e28c3](https://github.com/cpselvis/builder-webpack-core/commit/a8e28c3))
+* 支持CSS文件热更新 ([f23d345](https://github.com/cpselvis/builder-webpack-core/commit/f23d345))
+
+
+
 <a name="0.1.10"></a>
 ## [0.1.10](https://github.com/cpselvis/builder-webpack-core/compare/v0.1.9...v0.1.10) (2018-09-20)
 
