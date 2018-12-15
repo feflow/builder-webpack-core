@@ -1,3 +1,15 @@
+<a name="0.1.13"></a>
+## [0.1.13](https://github.com/cpselvis/builder-webpack-core/compare/v0.1.10...v0.1.13) (2018-12-15)
+
+
+### Features
+
+* support global-style loader path ([4f928f1](https://github.com/cpselvis/builder-webpack-core/commit/4f928f1))
+* 兼容 IOS7 样式 ([a8e28c3](https://github.com/cpselvis/builder-webpack-core/commit/a8e28c3))
+* 支持CSS文件热更新 ([f23d345](https://github.com/cpselvis/builder-webpack-core/commit/f23d345))
+
+
+
 <a name="0.1.12"></a>
 ## [0.1.12](https://github.com/cpselvis/builder-webpack-core/compare/v0.1.10...v0.1.12) (2018-11-22)
 
