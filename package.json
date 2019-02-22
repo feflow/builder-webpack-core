@@ -41,6 +41,7 @@
     "html-webpack-externals-plugin": "^3.6.0",
     "html-webpack-inline-source-plugin": "0.0.9",
     "html-webpack-plugin": "^2.30.1",
+    "image-webpack-loader": "^4.6.0",
     "less": "^3.8.0",
     "less-loader": "^4.1.0",
     "node-sass": "^4.9.0",
