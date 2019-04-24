@@ -1,3 +1,13 @@
+<a name="0.1.21"></a>
+## [0.1.21](https://github.com/cpselvis/builder-webpack-core/compare/v0.1.20...v0.1.21) (2019-04-24)
+
+
+### Bug Fixes
+
+* 锁住依赖版本号 ([17bf978](https://github.com/cpselvis/builder-webpack-core/commit/17bf978))
+
+
+
 <a name="0.1.13"></a>
 ## [0.1.13](https://github.com/cpselvis/builder-webpack-core/compare/v0.1.10...v0.1.13) (2018-12-15)
 
