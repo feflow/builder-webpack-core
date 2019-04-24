@@ -1,3 +1,13 @@
+<a name="0.1.23"></a>
+## [0.1.23](https://github.com/cpselvis/builder-webpack-core/compare/v0.1.20...v0.1.23) (2019-04-24)
+
+
+### Bug Fixes
+
+* 锁住html-webpack-include-assets-plugin的版本号 ([96fa7ac](https://github.com/cpselvis/builder-webpack-core/commit/96fa7ac))
+
+
+
 <a name="0.1.13"></a>
 ## [0.1.13](https://github.com/cpselvis/builder-webpack-core/compare/v0.1.10...v0.1.13) (2018-12-15)
 
