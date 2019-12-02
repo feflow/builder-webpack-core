@@ -1,3 +1,13 @@
+<a name="0.2.1"></a>
+## [0.2.1](https://github.com/cpselvis/builder-webpack-core/compare/v0.2.0...v0.2.1) (2019-12-02)
+
+
+### Features
+
+* 支持 ts ([#5](https://github.com/cpselvis/builder-webpack-core/issues/5)) ([f963235](https://github.com/cpselvis/builder-webpack-core/commit/f963235))
+
+
+
 <a name="0.1.23"></a>
 ## [0.1.23](https://github.com/cpselvis/builder-webpack-core/compare/v0.1.20...v0.1.23) (2019-04-24)
 
