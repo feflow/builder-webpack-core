@@ -1,6 +1,6 @@
 {
   "name": "builder-webpack-core",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "description": "webpack项目构建器.",
   "main": "lib/index.js",
   "scripts": {
