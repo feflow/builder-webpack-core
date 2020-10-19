@@ -62,7 +62,7 @@
     "uri-js": "^4.2.2",
     "webpack": "^3.8.1",
     "webpack-dev-middleware": "^1.12.2",
-    "webpack-subresource-integrity": "1.0.4"
+    "webpack-subresource-integrity": "1.5.1"
   },
   "devDependencies": {
     "commitizen": "^2.3.0",
